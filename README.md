@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @price76 (Mohammad Shamsi)
-- 👀 I’m interested in ... React
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
